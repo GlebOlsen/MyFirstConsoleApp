@@ -12,6 +12,9 @@ namespace MyFirstConsoleApp
         {
             _name = name;
         }
+        /// <summary>
+        /// Test commit
+        /// </summary>
 
         public string Name 
         { 
